@@ -15,9 +15,9 @@ To run the script, simply execute the script in your Python environment. The ext
 ## Installation
 To install the serpapi library, use the following command:
 
-'''
+```
 pip install google-search-results
-'''
+```
 
 ## Usage
 To use this script, replace the value of q in the params dictionary with the name of the retail brand you want to search for, and replace the value of ll with the latitude, longitude, and zoom level of the location you want to search around.
