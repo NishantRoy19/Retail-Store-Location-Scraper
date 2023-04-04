@@ -4,7 +4,7 @@ import csv
 
 # Set the search parameters
 params = {
-    'api_key': 'b23f9c0c727abb17b037f8ba102a8d996eafdbd4ae81080de0913415ee0da823',  # Serp API key                     
+    'api_key': 'Serp API key' #for demo copy 'b23f9c0c727abb17b037f8ba102a8d996eafdbd4ae81080de0913415ee0da823', limited to 100 search per month
     'engine': 'google_maps',               # Search engine to use (Google Maps in this case) 	
     'q': 'The 90s Café, Chapter 1',        # Query to search for
     'll': '@21.2284856,81.29664,15z',      # Location coordinates
